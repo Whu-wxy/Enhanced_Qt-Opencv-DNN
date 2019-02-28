@@ -1,0 +1,7 @@
+camera and album part:
+http://amin-ahmadi.com/2015/12/08/how-to-open-android-image-gallery-in-qt/
+http://coliru.stacked-crooked.com/a/44727e48a45d3afc
+https://blog.csdn.net/anticevc/article/details/52712034
+
+dnn part:
+https://blog.csdn.net/guyuealian/article/details/80570120
